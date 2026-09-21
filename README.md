@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
