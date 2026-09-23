@@ -12,7 +12,6 @@ class Solution {
                 idx=i;
             }
         }
-        int[] res={idx,max};
-        return res;
+        return new int[] {idx,max};
     }
 }
