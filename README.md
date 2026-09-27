@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
