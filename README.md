@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0088-merge-sorted-array) |
@@ -99,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0011-container-with-most-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
