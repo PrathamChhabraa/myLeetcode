@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 | [0904-fruit-into-baskets](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0392-is-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
