@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathamChhabraa/myLeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
