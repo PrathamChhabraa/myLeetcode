@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0905-sort-array-by-parity) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
