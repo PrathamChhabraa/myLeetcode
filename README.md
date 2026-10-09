@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0766-toeplitz-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/PrathamChhabraa/myLeetcode/tree/master/2643-row-with-maximum-ones) |
 ## Math
 |  |
