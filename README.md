@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2643-row-with-maximum-ones](https://github.com/PrathamChhabraa/myLeetcode/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrathamChhabraa/myLeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathamChhabraa/myLeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrathamChhabraa/myLeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
