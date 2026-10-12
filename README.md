@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrathamChhabraa/myLeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
