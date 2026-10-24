@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0217-contains-duplicate) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0766-toeplitz-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/PrathamChhabraa/myLeetcode/tree/master/2643-row-with-maximum-ones) |
 ## Math
