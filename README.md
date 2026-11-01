@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0392-is-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
