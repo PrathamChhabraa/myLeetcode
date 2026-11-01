@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0766-toeplitz-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathamChhabraa/myLeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
