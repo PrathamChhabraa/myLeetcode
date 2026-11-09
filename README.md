@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0073-set-matrix-zeroes) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
