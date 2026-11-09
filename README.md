@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0073-set-matrix-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0202-happy-number) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0088-merge-sorted-array) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
