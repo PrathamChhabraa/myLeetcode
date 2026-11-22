@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/PrathamChhabraa/myLeetcode/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/PrathamChhabraa/myLeetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PrathamChhabraa/myLeetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrathamChhabraa/myLeetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
