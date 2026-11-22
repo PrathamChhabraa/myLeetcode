@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Simulation
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PrathamChhabraa/myLeetcode/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
